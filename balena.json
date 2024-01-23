@@ -324,5 +324,34 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "67138cae4715cee6",
+        "type": "complete",
+        "z": "9cc05709.c67948",
+        "name": "",
+        "scope": [],
+        "uncaught": false,
+        "x": 870,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d456e483595a392f",
+        "type": "debug",
+        "z": "9cc05709.c67948",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 440,
+        "wires": []
     }
 ]
