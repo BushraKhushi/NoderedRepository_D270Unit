@@ -353,5 +353,41 @@
         "x": 980,
         "y": 440,
         "wires": []
+    },
+    {
+        "id": "3466cda359ac9c3f",
+        "type": "function",
+        "z": "9cc05709.c67948",
+        "name": "function 1",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 860,
+        "y": 360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "41e594b45faeeeb5",
+        "type": "function",
+        "z": "9cc05709.c67948",
+        "name": "function 2",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1020,
+        "y": 240,
+        "wires": [
+            []
+        ]
     }
 ]
